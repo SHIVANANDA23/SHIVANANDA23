@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivananda Basavaraja Biradara</h1>
-<h3 align="center">Electronics & ML Enthusiast</h3>
-
+<h3 align="center">Electronics Enthusiast</h3>
+<h4 align="center">"Thinking, working, and achieving results are not in a straight line; they are connected in an endless circle."</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SHIVANANDA23&label=Profile%20views&color=0e75b6&style=flat" alt="SHIVANANDA23" /> </p>
 
 - 📫 How to reach me **shivanandabb23@gmail.com**
