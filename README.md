@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SHIVANANDA23&show_icons=true&locale=en&layout=compact" alt="SHIVANANDA BASAVARAJA BIRADARA" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHIVANANDA23&show_icons=true&locale=en" alt="SHIVANANDA23" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SHIVANANDA23&show_icons=true&locale=en" alt="SHIVANANDA BASAVARAJA BIRADARA" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVANANDA23&" alt="SHIVANANDA23" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SHIVANANDA23&" alt="SHIVANANDA BASAVARAJA BIRADARA" /></p>
