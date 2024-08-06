@@ -5,8 +5,12 @@
 
 - 📫 How to reach me **shivanandabb23@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="http://www.linkedin.com/in/shivanand-basavaraja-biradar">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn" style="width: 100px;"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
